@@ -11,11 +11,3 @@ if Satisfied:
     print("The CNF is satisfiable.")
 else:
     print("The CNF is unsatisfiable.")
-#print(lit)
-'''
-for i in range(126):
-    print(i, truthtable[i])
-print(lit)
-print((lit[15], lit[40], lit[65], lit[90], lit[115]))
-print(lit[1+25*0:26+25*0])
-'''
