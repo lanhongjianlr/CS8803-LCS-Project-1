@@ -14,7 +14,6 @@ Index = {'Brit': 0,
          'Norwegian': 4}
 
 KeyList = Houses + Colors + Pets + Drinks + Smokes
-#print(KeyList)
 
 Dicts = []
 for i in range(NumNations):
