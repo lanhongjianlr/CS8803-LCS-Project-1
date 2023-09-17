@@ -17,5 +17,4 @@ def ReadCNF(file):
                 cnf.append(clause)
                 clause = []
 
-    #print(cnf)
     return N, L, cnf
